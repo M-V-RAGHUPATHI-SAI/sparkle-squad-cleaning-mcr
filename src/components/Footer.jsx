@@ -38,7 +38,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <span style={{ fontWeight: 800, fontSize: '26px' }}>
-              <span style={{ color: 'var(--color-secondary)' }}>{businessConfig.namePart1}</span><span style={{ color: 'var(--color-primary)' }}>{businessConfig.namePart2}</span>
+              <span style={{ color: 'var(--color-secondary)' }}>{businessConfig.namePart1}</span>{businessConfig.namePart2 && <span style={{ color: 'var(--color-primary)' }}> {businessConfig.namePart2}</span>}
             </span>
             <p className="text-[var(--color-dark)] mt-2" style={{ fontWeight: 400, fontSize: '13px' }}>{businessConfig.tagline}</p>
             <p className="text-[var(--color-dark)] mt-4" style={{ fontWeight: 400, fontSize: '14px', lineHeight: 1.7 }}>
@@ -127,7 +127,7 @@ export default function Footer() {
         {/* Massive brand name */}
         <div className="border-t border-[var(--color-border)] pt-8 text-center overflow-hidden">
           <h2 style={{ fontSize: '13vw', fontWeight: 900, lineHeight: 1, letterSpacing: '-0.02em', textAlign: 'center', userSelect: 'none' }}>
-            <span style={{ color: 'var(--color-secondary)' }}>{businessConfig.namePart1}</span><span style={{ color: 'var(--color-primary)' }}>{businessConfig.namePart2}</span>
+            <span style={{ color: 'var(--color-secondary)' }}>{businessConfig.namePart1}</span>{businessConfig.namePart2 && <span style={{ color: 'var(--color-primary)' }}> {businessConfig.namePart2}</span>}
           </h2>
         </div>
 

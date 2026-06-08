@@ -42,7 +42,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="tracking-tight flex-shrink-0" style={{ fontSize: '20px' }}>
             <span className="font-extrabold" style={{ color: scrolled || isHome ? 'var(--color-primary)' : 'var(--color-white)' }}>{businessConfig.namePart1}</span>
-            <span className="font-light" style={{ color: scrolled || isHome ? 'var(--color-secondary)' : 'var(--color-white)' }}>{businessConfig.namePart2}</span>
+            {businessConfig.namePart2 && <span className="font-light" style={{ color: scrolled || isHome ? 'var(--color-secondary)' : 'var(--color-white)' }}> {businessConfig.namePart2}</span>}
           </Link>
 
           {/* Center links */}
@@ -137,7 +137,7 @@ export default function Navbar() {
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '80px', flexShrink: 0 }}>
               <span style={{ fontSize: '22px', fontFamily: "'Inter', system-ui, sans-serif" }}>
                 <span style={{ fontWeight: 800, color: 'var(--color-white)' }}>{businessConfig.namePart1}</span>
-                <span style={{ fontWeight: 300, color: 'var(--color-white)' }}>{businessConfig.namePart2}</span>
+                {businessConfig.namePart2 && <span style={{ fontWeight: 300, color: 'var(--color-white)' }}> {businessConfig.namePart2}</span>}
               </span>
               <button onClick={() => setOpen(false)} style={{ padding: '8px', color: 'white', background: 'none', border: 'none', cursor: 'pointer' }} aria-label="Close menu">
                 <i className="fa-solid fa-xmark" style={{ fontSize: '28px' }} />

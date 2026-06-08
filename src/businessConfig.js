@@ -3,33 +3,33 @@
 // Edit freely. Re-run the generator to rebuild from scratch.
 
 export const businessConfig = {
-  "name": "Sparkle Squad Cleaning MCR",
-  "namePart1": "Sparkle Squad",
-  "namePart2": "Cleaning MCR",
-  "tagline": "Cleaning Done Right",
+  "name": "Sparkle Squad",
+  "namePart1": "Sparkle",
+  "namePart2": "Squad",
+  "tagline": "Manchester's cleaning squad",
   "category": "cleaning",
   "city": "Manchester",
-  "primaryColor": "#0f172a",
-  "secondaryColor": "#38bdf8",
+  "primaryColor": "#1d4ed8",
+  "secondaryColor": "#22d3ee",
   "colors": {
-    "primary": "#0f172a",
-    "primaryDark": "#0a1221",
-    "secondary": "#38bdf8",
-    "dark": "#060e1a",
+    "primary": "#1d4ed8",
+    "primaryDark": "#1a44c4",
+    "secondary": "#22d3ee",
+    "dark": "#0c1a4d",
     "lightGray": "#E9EAE8",
     "cream": "#EBEBE6",
     "white": "#ffffff",
     "muted": "#6b7280",
     "border": "#e5e7eb",
-    "darkRgb": "6, 14, 26",
-    "primaryRgb": "15, 23, 42"
+    "darkRgb": "12, 26, 77",
+    "primaryRgb": "29, 78, 216"
   },
   "fonts": {
     "primary": "Inter",
     "display": "Playfair Display",
     "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,800&family=Playfair+Display:ital,wght@1,700;1,800;1,900&display=swap"
   },
-  "eyebrow": "MANCHESTER'S TRUSTED CLEANING SERVICE",
+  "eyebrow": "MANCHESTER'S CLEANING SQUAD",
   "headline": "Cleaning with Care\nSparkling Results",
   "headlineLight": "Cleaning with Care",
   "headlineBold": "Sparkling Results",
