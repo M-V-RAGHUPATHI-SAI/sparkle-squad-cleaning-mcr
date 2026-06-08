@@ -1,5 +1,5 @@
 // Sparkle Squad — businessConfig
-// Images refreshed: 2026-06-09 04:19
+// Images refreshed: 2026-06-09 04:22
 
 export const businessConfig = {
   "name": "Sparkle Squad",
@@ -34,7 +34,7 @@ export const businessConfig = {
   "headlineBold": "Sparkling Results",
   "heroKeyword": "CLEAN",
   "heroImage": "/hero-generated.jpg",
-  "aboutImage": "https://images.pexels.com/photos/12786908/pexels-photo-12786908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "aboutImage": "https://images.pexels.com/photos/34295405/pexels-photo-34295405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "heroSubtext": "\u00a32M insured. 5-star rated on MyBuilder. Homes, Airbnbs, offices, end-of-tenancy \u2014 all across Manchester.",
   "ctaBannerHeadline": "Book Your Clean",
   "ctaBannerSubtext": "DM on Instagram or fill in the form \u2014 fast response, no fuss.",
@@ -294,69 +294,69 @@ export const businessConfig = {
   ],
   "gallery": [
     {
-      "src": "https://images.pexels.com/photos/8146147/pexels-photo-8146147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7587774/pexels-photo-7587774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "luxury apartment after clean"
     },
     {
-      "src": "https://images.pexels.com/photos/7061677/pexels-photo-7061677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/8146332/pexels-photo-8146332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "premium lounge clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/9877524/pexels-photo-9877524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6035310/pexels-photo-6035310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "office clean Manchester"
     },
     {
-      "src": "https://images.pexels.com/photos/8146213/pexels-photo-8146213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6480206/pexels-photo-6480206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "kitchen deep clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/17918540/pexels-photo-17918540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7147364/pexels-photo-7147364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "bedroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7587779/pexels-photo-7587779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6523297/pexels-photo-6523297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "commercial space clean"
     },
     {
-      "src": "https://images.pexels.com/photos/8146335/pexels-photo-8146335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/7166931/pexels-photo-7166931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Interior",
       "alt": "bathroom clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/7587743/pexels-photo-7587743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/8135120/pexels-photo-8135120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Residential",
       "alt": "living room clean result"
     },
     {
-      "src": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "src": "https://images.pexels.com/photos/6508347/pexels-photo-6508347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "category": "Commercial",
       "alt": "hallway clean result"
     }
   ],
   "videoUrl": "",
   "marqueeImages": [
-    "https://images.pexels.com/photos/8146147/pexels-photo-8146147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7061677/pexels-photo-7061677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/9877524/pexels-photo-9877524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8146213/pexels-photo-8146213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/17918540/pexels-photo-17918540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7587779/pexels-photo-7587779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/8146335/pexels-photo-8146335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/7587743/pexels-photo-7587743.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7587774/pexels-photo-7587774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8146332/pexels-photo-8146332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6035310/pexels-photo-6035310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6480206/pexels-photo-6480206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7147364/pexels-photo-7147364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6523297/pexels-photo-6523297.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/7166931/pexels-photo-7166931.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/8135120/pexels-photo-8135120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/6508347/pexels-photo-6508347.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "/service-1-generated.jpg",
     "/service-2-generated.jpg",
     "/service-3-generated.jpg",
     "/service-4-generated.jpg",
     "/service-5-generated.jpg",
     "/service-6-generated.jpg",
-    "https://images.pexels.com/photos/8146147/pexels-photo-8146147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    "https://images.pexels.com/photos/7587774/pexels-photo-7587774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "beforeAfter": [
     {
@@ -364,48 +364,48 @@ export const businessConfig = {
       "category": "Residential",
       "title": "Move-Out Clean",
       "description": "City centre apartment, Manchester",
-      "before": "https://images.pexels.com/photos/12786908/pexels-photo-12786908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/6956848/pexels-photo-6956848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/5514918/pexels-photo-5514918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/34295405/pexels-photo-34295405.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 2,
       "category": "Residential",
       "title": "Deep Clean",
       "description": "Luxury high-rise, Manchester",
-      "before": "https://images.pexels.com/photos/8092201/pexels-photo-8092201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8146147/pexels-photo-8146147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/36944343/pexels-photo-36944343.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7587774/pexels-photo-7587774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 3,
       "category": "Commercial",
       "title": "Office Clean",
       "description": "Commercial space, Manchester",
-      "before": "https://images.pexels.com/photos/16135854/pexels-photo-16135854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/7061677/pexels-photo-7061677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/17882093/pexels-photo-17882093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/8146332/pexels-photo-8146332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 4,
       "category": "Residential",
       "title": "End of Tenancy",
       "description": "Apartment complex, Manchester",
-      "before": "https://images.pexels.com/photos/16243257/pexels-photo-16243257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/9877524/pexels-photo-9877524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/32921089/pexels-photo-32921089.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6035310/pexels-photo-6035310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 5,
       "category": "Interior",
       "title": "Kitchen Restoration",
       "description": "City centre flat, Manchester",
-      "before": "https://images.pexels.com/photos/7512777/pexels-photo-7512777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/8146213/pexels-photo-8146213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/8123140/pexels-photo-8123140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/6480206/pexels-photo-6480206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "id": 6,
       "category": "Residential",
       "title": "Post-Renovation",
       "description": "New build, Manchester",
-      "before": "https://images.pexels.com/photos/33127755/pexels-photo-33127755.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "after": "https://images.pexels.com/photos/17918540/pexels-photo-17918540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "before": "https://images.pexels.com/photos/7512807/pexels-photo-7512807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "after": "https://images.pexels.com/photos/7147364/pexels-photo-7147364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "projects": [
@@ -413,25 +413,25 @@ export const businessConfig = {
       "category": "Residential",
       "title": "City Centre Apartment",
       "location": "Northern Quarter, Manchester",
-      "img": "https://images.pexels.com/photos/8146147/pexels-photo-8146147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/7587774/pexels-photo-7587774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Commercial",
       "title": "Office Space",
       "location": "Spinningfields, Manchester",
-      "img": "https://images.pexels.com/photos/9877524/pexels-photo-9877524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6035310/pexels-photo-6035310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Residential",
       "title": "Luxury High-Rise",
       "location": "Castlefield, Manchester",
-      "img": "https://images.pexels.com/photos/7061677/pexels-photo-7061677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/8146332/pexels-photo-8146332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "category": "Interior",
       "title": "Kitchen Restoration",
       "location": "Chorlton-cum-Hardy, Manchester",
-      "img": "https://images.pexels.com/photos/8146213/pexels-photo-8146213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "img": "https://images.pexels.com/photos/6480206/pexels-photo-6480206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
   ],
   "testimonials": [
