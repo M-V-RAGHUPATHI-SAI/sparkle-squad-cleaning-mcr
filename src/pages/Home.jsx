@@ -198,6 +198,7 @@ function Hero() {
                 >
 
                   {/* Eyebrow */}
+                  <div className="md:hidden">
                   <motion.div
                     variants={{ hidden: { opacity: 0, y: 12 }, visible: { opacity: 1, y: 0, transition: { duration: 0.5 } } }}
                     style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '20px' }}
@@ -207,16 +208,17 @@ function Hero() {
                       {businessConfig.eyebrow}
                     </span>
                   </motion.div>
+                  </div>
 
                   {/* Headline */}
                   <motion.h1
                     variants={{ hidden: { opacity: 0, y: 18 }, visible: { opacity: 1, y: 0, transition: { duration: 0.65 } } }}
                     style={{ margin: '0 0 18px', lineHeight: 1.04, letterSpacing: '-0.03em' }}
                   >
-                    <span style={{ display: 'block', fontSize: 'clamp(34px, 5vw, 74px)', fontWeight: 300, color: 'var(--color-primary)', fontFamily: 'Inter,sans-serif', WebkitTextStroke: '2px rgba(255,255,255,0.55)', paintOrder: 'stroke fill' }}>
+                    <span className="hero-text-stroke" style={{ display: 'block', fontSize: 'clamp(34px, 5vw, 74px)', fontWeight: 300, color: 'var(--color-primary)', fontFamily: 'Inter,sans-serif' }}>
                       {businessConfig.headlineLight}
                     </span>
-                    <span style={{ display: 'block', fontSize: 'clamp(34px, 5vw, 74px)', fontWeight: 700, fontStyle: 'italic', color: 'var(--color-primary)', fontFamily: "'Playfair Display',Georgia,serif", WebkitTextStroke: '2px rgba(255,255,255,0.55)', paintOrder: 'stroke fill' }}>
+                    <span className="hero-text-stroke" style={{ display: 'block', fontSize: 'clamp(34px, 5vw, 74px)', fontWeight: 700, fontStyle: 'italic', color: 'var(--color-primary)', fontFamily: "'Playfair Display',Georgia,serif" }}>
                       {businessConfig.headlineBold}
                     </span>
                   </motion.h1>
@@ -253,6 +255,7 @@ function Hero() {
                   </motion.div>
 
                   {/* Stats */}
+                  <div className="md:hidden">
                   <motion.div
                     variants={{ hidden: { opacity: 0, y: 8 }, visible: { opacity: 1, y: 0, transition: { duration: 0.5 } } }}
                     style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}
@@ -264,6 +267,7 @@ function Hero() {
                       </div>
                     ))}
                   </motion.div>
+                  </div>
 
                 </motion.div>
               </div>
