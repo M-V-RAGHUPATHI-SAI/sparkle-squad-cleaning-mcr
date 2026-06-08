@@ -10,11 +10,11 @@ export const businessConfig = {
   "category": "cleaning",
   "city": "Manchester",
   "primaryColor": "#0f172a",
-  "secondaryColor": "#38bdf8",
+  "secondaryColor": "#5ba8d4",
   "colors": {
     "primary": "#0f172a",
     "primaryDark": "#0a1221",
-    "secondary": "#38bdf8",
+    "secondary": "#5ba8d4",
     "dark": "#060e1a",
     "lightGray": "#E9EAE8",
     "cream": "#EBEBE6",
