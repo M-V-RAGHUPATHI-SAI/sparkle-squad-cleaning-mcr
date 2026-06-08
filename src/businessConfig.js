@@ -9,20 +9,20 @@ export const businessConfig = {
   "tagline": "Manchester's cleaning squad",
   "category": "cleaning",
   "city": "Manchester",
-  "primaryColor": "#1d4ed8",
-  "secondaryColor": "#22d3ee",
+  "primaryColor": "#0f172a",
+  "secondaryColor": "#38bdf8",
   "colors": {
-    "primary": "#1d4ed8",
-    "primaryDark": "#1a44c4",
-    "secondary": "#22d3ee",
-    "dark": "#0c1a4d",
+    "primary": "#0f172a",
+    "primaryDark": "#0a1221",
+    "secondary": "#38bdf8",
+    "dark": "#060e1a",
     "lightGray": "#E9EAE8",
     "cream": "#EBEBE6",
     "white": "#ffffff",
     "muted": "#6b7280",
     "border": "#e5e7eb",
-    "darkRgb": "12, 26, 77",
-    "primaryRgb": "29, 78, 216"
+    "darkRgb": "6, 14, 26",
+    "primaryRgb": "15, 23, 42"
   },
   "fonts": {
     "primary": "Inter",
